@@ -9,3 +9,11 @@ These slides are designed to help guide your understanding of course concepts. W
 <p style="font-size:16px;">
 This is <strong>not</strong> an official source from the course. We facilitators created these slides based on the lecture material. They serve as a good guide to check your understanding, but please do not take this as a guarantee that these questions resemble test questions.
 </p>
+
+<p style="font-size:16px;">
+FSG sessions are held on <strong>Wednesdays from 2-3 PM</strong> in <strong>MN2266</strong>.
+</p>
+
+<p style="font-size:16px;">
+For more information about FSG sessions, visit the <a href="https://www.utm.utoronto.ca/rgasc/undergraduate-students/facilitated-study-groups-fsgs">Robert Gillespie Academic Skills Centre website</a>.
+</p>
