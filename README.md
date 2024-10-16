@@ -11,9 +11,10 @@ This is <strong>not</strong> an official source from the course. We facilitators
 </p>
 
 <p style="font-size:16px;">
-FSG sessions are held on <strong>Wednesdays from 2-3 PM</strong> in <strong>MN2266</strong>.
+FSG sessions are held on <strong><span style="color:blue;">Wednesdays from 2-3 PM</span></strong> in <strong><span style="color:blue;">MN2266</span></strong>.
 </p>
 
 <p style="font-size:16px;">
 For more information about FSG sessions, visit the <a href="https://www.utm.utoronto.ca/rgasc/undergraduate-students/facilitated-study-groups-fsgs">Robert Gillespie Academic Skills Centre website</a>.
 </p>
+
