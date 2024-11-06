@@ -1,9 +1,9 @@
 # This program shows the difference between write mode and append mode
-with open('example.txt', 'w') as file:
-    file.write('This is write mode.\n')
+# with open('example.txt', 'w') as file:
+#     file.write('This is write mode.\n')
 
-# with open('example.txt', 'a') as file:
-#      file.write('This is append mode.\n')
+with open('example.txt', 'a') as file:
+     file.write('This is append mode.\n')
 
 with open('example.txt', 'r') as file:
     print(file.read())
