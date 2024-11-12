@@ -26,6 +26,7 @@ def city_exists(country: str, province: str, city: str, geography: dict) -> bool
     >>> city_exists('Canada', 'Ontario', 'Calgary', geography)
     False
     """
+    
 geography = {
     'Canada': {
         'Ontario': {
