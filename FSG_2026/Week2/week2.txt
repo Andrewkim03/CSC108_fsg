@@ -1,0 +1,8 @@
+topcis learned 
+
+basic arithmetic operaters ( +, -, /, *, //, **)
+1) functions, how to write function in python(white space), convention(tab, uppercase)
+2) return statement, doctstring, doctest
+3) scope, contsatn, global variable
+
+booleans, logic operations(and, or), evalutaion order of logical operaters
